@@ -169,6 +169,7 @@ SQL	Data analysis
 Power BI	Dashboard & visualization
 
 📁 Project Structure
+
 Customer-Shopping-Behavior-Analysis
 │
 ├── dataset
@@ -187,7 +188,6 @@ Customer-Shopping-Behavior-Analysis
 │   └── project_report.pdf
 │
 └── README.md
-
 📈 Project Outcome
 
 This project demonstrates how data analytics can transform raw customer transaction data into meaningful business insights.
