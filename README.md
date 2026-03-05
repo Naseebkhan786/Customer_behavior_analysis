@@ -76,7 +76,8 @@ Category analysis
 
 Customer segmentation charts
 
-(Add dashboard screenshot here in your GitHub repo)
+dashboard screenshot:
+https://github.com/Naseebkhan786/Customer_behavior_analysis/blob/main/Dashboard%20Screenshot.png
 
 🛠️ Tech Stack
 
