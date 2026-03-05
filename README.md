@@ -89,3 +89,16 @@ https://github.com/Naseebkhan786/Customer_behavior_analysis/blob/main/Dashboard%
 | SQL        | Data analysis             |
 | Power BI   | Dashboard & visualization |
 
+📈 Project Outcome
+
+This project demonstrates how data analytics can transform raw customer transaction data into meaningful business insights.
+
+Companies can use these insights to:
+
+Increase revenue
+
+Improve customer targeting
+
+Build stronger loyalty programs
+
+Optimize product marketing
